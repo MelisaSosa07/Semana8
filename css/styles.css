@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(187, 118, 233);
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 35px;
+    }
+#container {
+background-color: rgb(245, 163, 213);
+color: rgb(98, 98, 211);
+text-align: center;
+font-size: 25px;
+
+}
